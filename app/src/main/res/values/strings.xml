@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealTimeTracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_directions_key">AIzaSyAv0vnaaofjJV9fE0PShYWnoXfp0DS8rSk</string>
+</resources>
